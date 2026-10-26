@@ -1,0 +1,4 @@
+Department,Employee_Count,Average_Salary,Maximum_Salary,Average_Performance
+Finance,2,54500.0,60000.0,90.0
+Hr,2,49000.0,50000.0,88.25
+It,3,48333.33,55000.0,82.67
